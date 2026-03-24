@@ -1,4 +1,4 @@
-# Federated-t-SNE-and-UMAP
+# Federated t-SNE and UMAP for Distributed Data Visualization
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.01084-b31b1b.svg)](https://arxiv.org/abs/2412.13495)
