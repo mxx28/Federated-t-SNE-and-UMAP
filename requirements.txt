@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+seaborn
+jupyter
+notebook
+ipywidgets
+torch
+torchvision
+umap-learn
