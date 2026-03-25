@@ -66,14 +66,6 @@ Then install the remaining packages:
 pip install -r requirements.txt
 ```
 
-## Contribution guide
-
-Feel free to open issues or PRs for:
-
-- adding new algorithms or models
-- performance improvements and hyperparameter tuning
-- project structure or documentation improvements
-
 ## License
 
 Apache 2.0
