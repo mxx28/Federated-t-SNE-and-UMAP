@@ -22,7 +22,6 @@ In addition to these new algorithms, we offer theoretical guarantees of optimiza
   - `figure_nmi_ny/`: NMI vs NY experiment notebooks
   - `table_mnist/`: MNIST table result notebooks
 - `figures/`: all figure outputs (png/jpg)
-- `README.md`: project description and usage guide
 
 ## Quick start
 
